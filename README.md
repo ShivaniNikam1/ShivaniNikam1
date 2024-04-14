@@ -6,6 +6,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShivaniNikam1/portfolio_react](https://github.com/ShivaniNikam1/portfolio_react)
 
+- 🧠 I’m currently learning ML and DSA
+
 - 📫 How to reach me **shivanirajeshnikam2003@gmail.com**
 
 - ⚡ Fun fact **If at first, you don't succeed, call it a 'version 1.0.'**
